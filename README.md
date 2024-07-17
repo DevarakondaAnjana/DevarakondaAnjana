@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevarakondaAnjana
+- 👋 Hi, I’m @SaiVenkata
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analytics
 
